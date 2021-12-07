@@ -1,0 +1,16 @@
+{
+  "name": "brief_2_login",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "scripts": {
+    "start": "json-server --watch db/db.json -p 3000"
+
+
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "formateur": [
+    {
+      "email": "asdasd@safsf.com",
+      "password": "asfasf",
+      "full_name": "asfasf",
+      "speciality": "asfaf",
+      "id": 1
+    },
+    {
+      "email": "",
+      "password": "",
+      "full_name": "",
+      "speciality": "",
+      "id": 2
+    },
+    {
+      "email": "dzad@dzk,",
+      "password": "csc",
+      "full_name": "dzedz",
+      "speciality": "dkz",
+      "id": 3
+    },
+    {
+      "email": "zugi@zfkb.",
+      "password": "",
+      "full_name": "commendo mizugi",
+      "speciality": "",
+      "id": 4
+    },
+    {
+      "email": "dumbo@gmail.com",
+      "password": "kjnfkfezf",
+      "full_name": "dumbo",
+      "speciality": "Math",
+      "id": 5
+    },
+    {
+      "email": "momoski@gmail.com",
+      "password": "12121",
+      "full_name": "momoski hashirama",
+      "speciality": "physics",
+      "id": 6
+    }
+  ],
+  "Level": [
+    {
+      "levelType": "hard",
+      "MaxScore": "1000",
+      "MinScore": "600",
+      "id": 6
+    },
+    {
+      "levelType": "extreme",
+      "MaxScore": "400",
+      "MinScore": "40",
+      "id": 7
+    },
+    {
+      "levelType": "super sayen",
+      "MaxScore": "1000000000000000000000000",
+      "MinScore": "10000000",
+      "id": 10
+    }
+  ]
+}
